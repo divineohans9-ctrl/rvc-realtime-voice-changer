@@ -1,3 +1,8 @@
+# This voice changer is hella outdated and shouldn't be used.  <br/> No point to work on it for me since better solutions exist.
+## I highly recommend taking a look at [vonovox rt voice-changer](https://github.com/dr87/Vonovox) <- click the link
+## Imho it is the best one you can get as of now. <br/> ( Closed-source but developed by my friend, can be 100% trusted. )
+<br/>
+
 ### Standalone, lightweight and simplified in setup RVC's own real-time voice changer~
 > ✨ separated from rvc ( Fumiama version ) by codename;0 ✨
 
